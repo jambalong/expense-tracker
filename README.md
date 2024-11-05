@@ -1,24 +1,25 @@
-# README
+# SimplyExpense
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+SimplyExpense is a full-stack expense tracker application built with Ruby on Rails, Hotwire, Tailwind CSS, and PostgreSQL. The app allows users to track their expenses, manage their financial data, and visualize their spending habits in a user-friendly interface.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+- User authentication with Devise
 
-* System dependencies
+- Add, edit, and delete expenses
 
-* Configuration
+- View a list of all expenses
 
-* Database creation
+- Responsive design using Tailwind CSS
 
-* Database initialization
+- Real-time updates with Hotwire
 
-* How to run the test suite
+## Tech Stack
 
-* Services (job queues, cache servers, search engines, etc.)
+- **Backend**: Ruby on Rails
 
-* Deployment instructions
+- **Frontend**: Hotwire, Tailwind CSS
 
-* ...
+- **Database**: PostgreSQL
+
+- **Authentication**: Devise
